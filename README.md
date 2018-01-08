@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/navicore/naviron-other.svg?branch=master)](https://travis-ci.org/navicore/naviron-other)
+[![Build Status](https://travis-ci.org/navicore/naviron-gambit.svg?branch=master)](https://travis-ci.org/navicore/naviron-gambit)
+base toolchain image with gambit
 
-base toolchain image with java, sbt, gambit, lua, and node
+see http://gambitscheme.org
 
